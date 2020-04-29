@@ -15,7 +15,7 @@ const Container = styled.div`
 `;
 
 const Image = styled.img`
-  width: 64px;
+  max-width: 64px;
   height: auto;
 `;
 
