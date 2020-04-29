@@ -50,10 +50,12 @@ const About = () => {
               I have been working in the software industry for more than 4
               years.
             </li>
-            <li>Actually, I'm working as Full Stack Developer.</li>
+            <li>
+              Actually, I'm working as Full Stack Developer (Node.js and React).
+            </li>
             <li>
               I'm a JavaScript passionate and I really enjoy learning new
-              implementations and new technologies.
+              implementations of it and new technologies.
             </li>
           </List>
         </Info>
