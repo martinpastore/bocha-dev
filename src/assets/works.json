@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "job": "Full Stack Developer",
+            "company": "Distillery",
+            "image": "https://media-exp1.licdn.com/dms/image/C560BAQGbk3ihtcoMNA/company-logo_200_200/0?e=2159024400&v=beta&t=W2feOWahpqQS2eCycnfuau0XqWTAhOxrLVah5rKKOCY",
+            "date": "May 2020 - Act"
+        },
+        {
+            "job": "Full Stack Developer",
+            "company": "Tarmac.IO",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQFnrO_GAnc3GA/company-logo_200_200/0?e=2159024400&v=beta&t=DJ6SXbiwpxqmBueYcppIMf9jCRm4jyFPaKoKYtnzQA4",
+            "date": "Apr 2019 - May 2020"
+        },
+        {
+            "job": "Frontend Developer",
+            "company": "Darwoft",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQHgo-0GkN4cWg/company-logo_200_200/0?e=2159024400&v=beta&t=MVB5fHwaTI8109XHsGVp21FXtODf_HG5WMD2M0hip0k",
+            "date": "Oct 2018 - Apr 2019"
+        },
+        {
+            "job": "Frontend Developer",
+            "company": "IncluIT",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5YnuyTg4Pvw/company-logo_200_200/0?e=2159024400&v=beta&t=9jWaKKJ9vKzhjZ0j3exufiBZiU2asmJbcVNJhxdMQZc",
+            "date": "Feb 2018 - Oct 2018"
+        },
+        {
+            "job": "Application Engineer",
+            "company": "Unisys",
+            "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDDeQQrL0IPQ/company-logo_200_200/0?e=2159024400&v=beta&t=RfSO0RvoaJ0PpgfLWKz0zvYg108_thegvMhwyMC2jn0",
+            "date": "Aug 2017 - Feb 2018"
+        },
+        {
+            "job": "Web UI Developer",
+            "company": "Globant",
+            "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQEyRlrQPqbyMw/company-logo_200_200/0?e=2159024400&v=beta&t=HCQrSkLs-UOxMUJztWHKhaHJYnys2s-x8PzMmPe_Vdo",
+            "date": "Apr 2016 - Aug 2017"
+        }
+    ]
+}
