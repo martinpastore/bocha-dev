@@ -12,8 +12,17 @@ const Container = styled.div`
 const Content = styled.div`
   display: flex;
   align-items: center;
+  justify-content: center;
   margin-bottom: 1rem;
   width: 33%;
+
+  @media screen and (max-width: 976px) {
+    width: 50%;
+  }
+
+  @media screen and (max-width: 670px) {
+    width: 100%;
+  }
 `;
 
 const Detail = styled.div`

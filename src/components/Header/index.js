@@ -7,6 +7,10 @@ const Container = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  @media screen and (max-width: 976px) {
+    padding: 0 1rem;
+  }
 `;
 
 const Div = styled.div`
