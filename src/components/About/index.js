@@ -13,7 +13,12 @@ const Container = styled.div`
   }
 `;
 
+const StyledH1 = styled.h1`
+  color: ${({ theme }) => theme.colors.primaryColor};
+`;
+
 const Info = styled.div`
+  color: ${({ theme }) => theme.colors.primaryColor};
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -26,13 +31,14 @@ const List = styled.ul`
 `;
 
 const Title = styled.h2`
+  color: ${({ theme }) => theme.colors.primaryColor};
   padding-left: 40px;
 `;
 
 const About = () => {
   return (
     <div>
-      <h1>About</h1>
+      <StyledH1>About</StyledH1>
       <Container>
         <wired-image
           style={{

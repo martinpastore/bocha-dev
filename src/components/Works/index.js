@@ -10,6 +10,7 @@ const Container = styled.div`
 `;
 
 const Content = styled.div`
+  color: ${({ theme }) => theme.colors.primaryColor};
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,14 +27,19 @@ const Content = styled.div`
 `;
 
 const Detail = styled.div`
+  color: ${({ theme }) => theme.colors.primaryColor};
   text-align: left;
   padding-left: 1rem;
+`;
+
+const StyledH1 = styled.h1`
+  color: ${({ theme }) => theme.colors.primaryColor};
 `;
 
 const Works = () => {
   return (
     <div>
-      <h1>Works</h1>
+      <StyledH1>Works</StyledH1>
       <Container>
         {works &&
           works.data &&

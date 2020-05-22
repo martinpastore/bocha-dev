@@ -19,10 +19,14 @@ const Image = styled.img`
   height: auto;
 `;
 
+const StyledH1 = styled.h1`
+  color: ${({ theme }) => theme.colors.primaryColor};
+`;
+
 const Contact = () => {
   return (
     <div>
-      <h1>Contact</h1>
+      <StyledH1>Contact</StyledH1>
       <Container>
         <Image
           onClick={() => window.open("https://github.com/martinpastore")}
